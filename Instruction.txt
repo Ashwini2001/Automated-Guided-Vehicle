@@ -19,7 +19,7 @@ Software Requirements:
 How to install:
           1) First upload the ESP8266_CODE to ESP8266 module using Arduino software through arduino board.
           2) Then upload Arduino_motor code to arduino with the same process.
-          3) Set your mobile hotspot name as "kashi" and password as "kashi123456" (Mobile application had internally set to this name and password, if you make your own moblie application then you may change it as your hotspot name).
+          3) Set your mobile hotspot name and password as you written in arduino code.
           4) Install AGV.apk to your device. Register and login to application.
           5) Wait for ESP8266 module to connect your device. Boom, you are set to run now.
           
