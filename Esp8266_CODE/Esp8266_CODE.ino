@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "kashi";  //plz make your hotspot name same as this.
-const char* password = "kashi123456"; //plz make your hotspot password same as this.(Mobile application had internally set to this name and password, if you made your own moblie application then you may change it as your hotspot name)
+const char* ssid = "your hotspot name";  //enter your hotspot name.
+const char* password = "your hotspot password"; //enter your hotspot password.
 WiFiServer server(80);
 
 void printWiFiStatus();
